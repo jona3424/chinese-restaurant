@@ -91,7 +91,7 @@ The application will be available at `http://localhost:8080`.
 - Vue Router
 - Vuex
 
-##Contributing
+## Contributing
 
 If you wish to contribute to this project, please follow these steps:
 
