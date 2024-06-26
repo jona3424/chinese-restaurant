@@ -1,0 +1,33 @@
+body {
+    background-image: url('china-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333;
+  }
+  
+  header, footer {
+    background-color: #d93600;
+  }
+  
+  h1, h2, h3, h4 {
+    font-family: 'Noto Serif SC', serif;
+  }
+  
+  .nav a {
+    color: #fff !important;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+  }
+  
+  .nav a:hover {
+    background-color: #b22222;
+    color: #fff;
+  }
+  
+  .jelo img {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+  }
+  
